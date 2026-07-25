@@ -27,7 +27,7 @@
 ---
 
 <a name="en"></a>
-## 🇬🇧 About Me
+## EU About Me
 
 3rd-year student, interested in network & web security, Linux administration.
 Practicing on HackTheBox and TryHackMe.
