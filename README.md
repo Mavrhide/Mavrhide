@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Mavrhide/Mavrhide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=Networking+%2B+Web+%2B+Linux;HTB+%26+CTF+player" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+### [Русский](#ru) · [English](#en)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+<a name="ru"></a>
+## 🇷🇺 Обо мне
+
+Студент 3 курса, интересуюсь сетевой и веб-безопасностью, администрированием Linux.
+Прокачиваюсь на HackTheBox и TryHackMe.
+
+**Стек:** Linux · Nmap · Wireshark · Burp Suite · Metasploit · Bash/Python · Cisco networking
+
+**Сертификаты:** пока в процессе — добавлю сюда, как только сдам первый 🎯
+
+**Практика:**
+- 🏆 [HackTheBox](https://profile.hackthebox.com/profile/019df95b-5a96-71ec-aa89-5a83d3e2b07c)
+- 🏆 [TryHackMe](https://tryhackme.com/p/mavrhide)
+
+**Связь:** [Telegram](https://t.me/mavrhide)
+
+---
+
+<a name="en"></a>
+## 🇬🇧 About Me
+
+3rd-year student, interested in network & web security, Linux administration.
+Practicing on HackTheBox and TryHackMe.
+
+**Stack:** Linux · Nmap · Wireshark · Burp Suite · Metasploit · Bash/Python · Cisco networking
+
+**Certifications:** in progress — will add once I pass my first one 🎯
+
+**Practice:**
+- 🏆 [HackTheBox](https://profile.hackthebox.com/profile/019df95b-5a96-71ec-aa89-5a83d3e2b07c)
+- 🏆 [TryHackMe](https://tryhackme.com/p/mavrhide)
+
+**Contact:** [Telegram](https://t.me/mavrhide)
