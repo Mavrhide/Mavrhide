@@ -16,7 +16,9 @@
 
 **Стек:** Linux · Nmap · Wireshark · Burp Suite · Metasploit · Bash/Python · Cisco networking
 
-**Сертификаты:** пока в процессе — добавлю сюда, как только сдам первый 🎯
+**Сертификаты:**
+- 🎓 [PT EdTechLab — Анализ событий безопасности с помощью SIEM](https://github.com/Mavrhide/Certificates/blob/main/PT-EdTechLab-SIEM.pdf) — Positive Technologies, 06.2026
+- 🎓 [PT EdTechLab — Анализ сетевых атак с помощью NTA](https://github.com/Mavrhide/Certificates/blob/main/PT-EdTechLab-NTA.pdf) — Positive Technologies, 05.2026
 
 **Практика:**
 - 🏆 [HackTheBox](https://profile.hackthebox.com/profile/019df95b-5a96-71ec-aa89-5a83d3e2b07c)
@@ -27,14 +29,16 @@
 ---
 
 <a name="en"></a>
-## EU About Me
+## 🇬🇧 About Me
 
 3rd-year student, interested in network & web security, Linux administration.
 Practicing on HackTheBox and TryHackMe.
 
 **Stack:** Linux · Nmap · Wireshark · Burp Suite · Metasploit · Bash/Python · Cisco networking
 
-**Certifications:** in progress — will add once I pass my first one 🎯
+**Certifications:**
+- 🎓 [PT EdTechLab — Security Event Analysis with SIEM](https://github.com/Mavrhide/Certificates/blob/main/PT-EdTechLab-SIEM.pdf) — Positive Technologies, 06.2026
+- 🎓 [PT EdTechLab — Network Attack Analysis with NTA](https://github.com/Mavrhide/Certificates/blob/main/PT-EdTechLab-NTA.pdf) — Positive Technologies, 05.2026
 
 **Practice:**
 - 🏆 [HackTheBox](https://profile.hackthebox.com/profile/019df95b-5a96-71ec-aa89-5a83d3e2b07c)
