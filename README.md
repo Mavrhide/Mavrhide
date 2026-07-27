@@ -24,7 +24,8 @@
 - 🏆 [HackTheBox](https://profile.hackthebox.com/profile/019df95b-5a96-71ec-aa89-5a83d3e2b07c)
 - 🏆 [TryHackMe](https://tryhackme.com/p/mavrhide)
 - 🏆 [CTFtime](https://ctftime.org/user/240350)
-**Связь:** [Telegram](https://t.me/mavrhide)
+**Связь:**
+ [Telegram](https://t.me/mavrhide)
 
 ---
 
@@ -44,5 +45,6 @@ Practicing on HackTheBox and TryHackMe.
 - 🏆 [HackTheBox](https://profile.hackthebox.com/profile/019df95b-5a96-71ec-aa89-5a83d3e2b07c)
 - 🏆 [TryHackMe](https://tryhackme.com/p/mavrhide)
 - 🏆 [CTFtime](https://ctftime.org/user/240350)
-**Contact:** [Telegram](https://t.me/mavrhide)
+**Contact:**
+  [Telegram](https://t.me/mavrhide)
 
