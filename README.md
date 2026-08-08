@@ -39,14 +39,16 @@ currently: "building a corporate network cyber range"
 
 | Сертификат | Провайдер | Дата |
 |---|---|---|
-| [Анализ событий безопасности с помощью SIEM](https://) | PT EdTechLab (Positive Technologies) | 06.2026 |
-| [Анализ сетевых атак с помощью NTA](https://) | PT EdTechLab (Positive Technologies) | 05.2026 |
+| [Анализ событий безопасности с помощью SIEM](https://github.com/Mavrhide/Certificates/blob/main/PT-EdTechLab-SIEM.pdf) | PT EdTechLab (Positive Technologies) | 06.2026 |
+| [Анализ сетевых атак с помощью NTA](https://github.com/Mavrhide/Certificates/blob/main/PT-EdTechLab-NTA.pdf) | PT EdTechLab (Positive Technologies) | 05.2026 |
 
 **🏆 Практика:**
 
 - [HackTheBox](https://profile.hackthebox.com/profile/019df95b-5a96-71ec-aa89-5a83d3e2b07c)
 - [TryHackMe](https://tryhackme.com/p/mavrhide)
-- [CTFtime](https://ctftime.org/)
+- [CTFtime](https://ctftime.org/user/240350)
+
+**📫 Связь:** [Telegram](https://t.me/mavrhide)
 
 ---
 
@@ -80,6 +82,19 @@ currently: "building a corporate network cyber range"
 
 3rd-year student at Dagestan State University, interested in network & web security and Linux administration.
 Practicing on HackTheBox and TryHackMe, building **LiteTrainingGround** — a segmented bank-like cyber range (DMZ / Corporate / Legacy / SOC) for full attack-to-detection workflows.
+
+**Stack:** Linux · Nmap · Wireshark · Burp Suite · Metasploit · Bash/Python · Cisco networking
+
+**Certifications:**
+
+- [PT EdTechLab — Security Event Analysis with SIEM](https://github.com/Mavrhide/Certificates/blob/main/PT-EdTechLab-SIEM.pdf) — Positive Technologies, 06.2026
+- [PT EdTechLab — Network Attack Analysis with NTA](https://github.com/Mavrhide/Certificates/blob/main/PT-EdTechLab-NTA.pdf) — Positive Technologies, 05.2026
+
+**Practice:**
+
+- [HackTheBox](https://profile.hackthebox.com/profile/019df95b-5a96-71ec-aa89-5a83d3e2b07c)
+- [TryHackMe](https://tryhackme.com/p/mavrhide)
+- [CTFtime](https://ctftime.org/user/240350)
 
 📫 **Reach me:** [Telegram](https://t.me/mavrhide)
 
