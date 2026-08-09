@@ -69,8 +69,10 @@ currently: "building a corporate network cyber range"
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mavrhide&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mavrhide&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41" />
+<img height="165" src="profile/stats.svg" alt="GitHub Stats" />
+<img height="165" src="profile/top-langs.svg" alt="Top Languages" />
+
+<sub>Карточки генерируются локально через GitHub Actions — см. настройку ниже, не зависит от внешних сервисов.</sub>
 
 </div>
 
@@ -80,22 +82,31 @@ currently: "building a corporate network cyber range"
 
 ### 🇬🇧 About Me
 
-3rd-year student at Dagestan State University, interested in network & web security and Linux administration.
-Practicing on HackTheBox and TryHackMe, building **LiteTrainingGround** — a segmented bank-like cyber range (DMZ / Corporate / Legacy / SOC) for full attack-to-detection workflows.
+3rd-year Cybersecurity student at Dagestan State University, building hands-on skills in network security, web application security, and Linux administration — one HTB box and one CTF at a time.
 
-**Stack:** Linux · Nmap · Wireshark · Burp Suite · Metasploit · Bash/Python · Cisco networking
+Currently building **[LiteTrainingGround](https://github.com/Mavrhide/LiteTrainingGround--LTG-)** — a segmented, bank-like cyber range (DMZ / Corporate / Legacy / SOC) designed to practice the full workflow from exploitation to detection, not isolated CTF tasks.
 
-**Certifications:**
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Cisco](https://img.shields.io/badge/-Cisco%20Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
-- [PT EdTechLab — Security Event Analysis with SIEM](https://github.com/Mavrhide/Certificates/blob/main/PT-EdTechLab-SIEM.pdf) — Positive Technologies, 06.2026
-- [PT EdTechLab — Network Attack Analysis with NTA](https://github.com/Mavrhide/Certificates/blob/main/PT-EdTechLab-NTA.pdf) — Positive Technologies, 05.2026
+**🎓 Certifications**
 
-**Practice:**
+| Certificate | Provider | Date |
+|---|---|---|
+| [Security Event Analysis with SIEM](https://github.com/Mavrhide/Certificates/blob/main/PT-EdTechLab-SIEM.pdf) | PT EdTechLab (Positive Technologies) | Jun 2026 |
+| [Network Attack Analysis with NTA](https://github.com/Mavrhide/Certificates/blob/main/PT-EdTechLab-NTA.pdf) | PT EdTechLab (Positive Technologies) | May 2026 |
 
-- [HackTheBox](https://profile.hackthebox.com/profile/019df95b-5a96-71ec-aa89-5a83d3e2b07c)
-- [TryHackMe](https://tryhackme.com/p/mavrhide)
-- [CTFtime](https://ctftime.org/user/240350)
+**🏆 Where I train**
 
-📫 **Reach me:** [Telegram](https://t.me/mavrhide)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019df95b-5a96-71ec-aa89-5a83d3e2b07c)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/mavrhide)
+[![CTFtime](https://img.shields.io/badge/CTFtime-333333?style=flat-square&logo=ctf&logoColor=white)](https://ctftime.org/user/240350)
+
+📫 **Let's connect:** [Telegram](https://t.me/mavrhide)
 
 </div>
