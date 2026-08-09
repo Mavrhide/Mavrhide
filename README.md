@@ -34,7 +34,7 @@ currently: "building a corporate network cyber range"
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Cisco](https://img.shields.io/badge/-Cisco%20Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-
+ 
 </div>
 
 <br>
@@ -70,10 +70,10 @@ currently: "building a corporate network cyber range"
 
 <div align="center">
 
-**[🏦 LiteTrainingGround (LTG)](https://github.com/Mavrhide/LiteTrainingGround--LTG-)**
+**[🎯 LiteTrainingGround (LTG)](https://github.com/Mavrhide/LiteTrainingGround--LTG-)**
 
-Киберполигон в виде сегментированной инфраструктуры банка: DMZ, Corporate, Legacy, SOC.
-Полный цикл — от эксплуатации до детекта в SIEM.
+Киберполигон в виде сегментированной инфраструктуры из трёх бизнес-доменов: интернет-магазин, банк, больница — и SOC-контура.
+Полный цикл — от эксплуатации до детекта в SIEM
 
 </div>
 
