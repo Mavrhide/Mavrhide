@@ -24,29 +24,36 @@ focus:     ["Network Security", "Web Security", "Linux Administration"]
 currently: "building a corporate network cyber range"
 ```
 
-**Стек:**
+<div align="center">
 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Cisco](https://img.shields.io/badge/-Cisco%20Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+<img src="https://skillicons.dev/icons?i=linux,bash,python,wireshark,cisco&theme=dark" alt="Stack" />
 
-**🎓 Сертификаты:**
+</div>
+
+<br>
+
+<details>
+<summary><b>🎓 Сертификаты</b></summary>
+<br>
 
 | Сертификат | Провайдер | Дата |
 |---|---|---|
 | [Анализ событий безопасности с помощью SIEM](https://github.com/Mavrhide/Certificates/blob/main/PT-EdTechLab-SIEM.pdf) | PT EdTechLab (Positive Technologies) | 06.2026 |
 | [Анализ сетевых атак с помощью NTA](https://github.com/Mavrhide/Certificates/blob/main/PT-EdTechLab-NTA.pdf) | PT EdTechLab (Positive Technologies) | 05.2026 |
 
-**🏆 Практика:**
+</details>
+
+<details>
+<summary><b>🏆 Практика</b></summary>
+<br>
 
 - [HackTheBox](https://profile.hackthebox.com/profile/019df95b-5a96-71ec-aa89-5a83d3e2b07c)
 - [TryHackMe](https://tryhackme.com/p/mavrhide)
 - [CTFtime](https://ctftime.org/user/240350)
+
+</details>
+
+<br>
 
 **📫 Связь:** [Telegram](https://t.me/mavrhide)
 
@@ -72,7 +79,11 @@ currently: "building a corporate network cyber range"
 <img height="165" src="profile/stats.svg" alt="GitHub Stats" />
 <img height="165" src="profile/top-langs.svg" alt="Top Languages" />
 
-<sub>Карточки генерируются локально через GitHub Actions — см. настройку ниже, не зависит от внешних сервисов.</sub>
+<br>
+
+<img height="165" src="https://streak-stats.demolab.com?user=Mavrhide&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
+
+<sub>Карточки Stats и Top Languages генерируются автоматически через GitHub Actions в этом репозитории — не зависят от внешних сервисов.</sub>
 
 </div>
 
@@ -86,26 +97,36 @@ currently: "building a corporate network cyber range"
 
 Currently building **[LiteTrainingGround](https://github.com/Mavrhide/LiteTrainingGround--LTG-)** — a segmented, bank-like cyber range (DMZ / Corporate / Legacy / SOC) designed to practice the full workflow from exploitation to detection, not isolated CTF tasks.
 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Cisco](https://img.shields.io/badge/-Cisco%20Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+<img src="https://skillicons.dev/icons?i=linux,bash,python,wireshark,cisco&theme=dark" alt="Stack" />
 
-**🎓 Certifications**
+</div>
+
+<br>
+
+<details>
+<summary><b>🎓 Certifications</b></summary>
+<br>
 
 | Certificate | Provider | Date |
 |---|---|---|
 | [Security Event Analysis with SIEM](https://github.com/Mavrhide/Certificates/blob/main/PT-EdTechLab-SIEM.pdf) | PT EdTechLab (Positive Technologies) | Jun 2026 |
 | [Network Attack Analysis with NTA](https://github.com/Mavrhide/Certificates/blob/main/PT-EdTechLab-NTA.pdf) | PT EdTechLab (Positive Technologies) | May 2026 |
 
-**🏆 Where I train**
+</details>
 
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019df95b-5a96-71ec-aa89-5a83d3e2b07c)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/mavrhide)
-[![CTFtime](https://img.shields.io/badge/CTFtime-333333?style=flat-square&logo=ctf&logoColor=white)](https://ctftime.org/user/240350)
+<details>
+<summary><b>🏆 Where I train</b></summary>
+<br>
+
+- [HackTheBox](https://profile.hackthebox.com/profile/019df95b-5a96-71ec-aa89-5a83d3e2b07c)
+- [TryHackMe](https://tryhackme.com/p/mavrhide)
+- [CTFtime](https://ctftime.org/user/240350)
+
+</details>
+
+<br>
+
+<div align="center">
 
 📫 **Let's connect:** [Telegram](https://t.me/mavrhide)
 
