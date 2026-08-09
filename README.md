@@ -26,7 +26,14 @@ currently: "building a corporate network cyber range"
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python,wireshark,cisco&theme=dark" alt="Stack" />
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Cisco](https://img.shields.io/badge/-Cisco%20Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
 </div>
 
@@ -97,7 +104,14 @@ currently: "building a corporate network cyber range"
 
 Currently building **[LiteTrainingGround](https://github.com/Mavrhide/LiteTrainingGround--LTG-)** — a segmented, bank-like cyber range (DMZ / Corporate / Legacy / SOC) designed to practice the full workflow from exploitation to detection, not isolated CTF tasks.
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python,wireshark,cisco&theme=dark" alt="Stack" />
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Cisco](https://img.shields.io/badge/-Cisco%20Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
 </div>
 
