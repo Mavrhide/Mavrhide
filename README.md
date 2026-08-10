@@ -15,7 +15,7 @@
 
 ### 🇷🇺 Обо мне
 
-Студент 3 курса Дагестанского государственного университета, интересуюсь сетевой и веб-безопасностью, администрированием Linux.
+Студент 2 курса Дагестанского государственного университета, интересуюсь сетевой и веб-безопасностью, администрированием Linux.
 Прокачиваюсь на HackTheBox и TryHackMe, собираю собственный киберполигон **[LiteTrainingGround](https://github.com/Mavrhide/LiteTrainingGround--LTG-)** — сегментированную сеть банка с DMZ / Corporate / Legacy / SOC для отработки полного цикла атаки и детекта.
 
 ```yaml
@@ -100,7 +100,7 @@ currently: "building a corporate network cyber range"
 
 ### 🇬🇧 About Me
 
-3rd-year Cybersecurity student at Dagestan State University, building hands-on skills in network security, web application security, and Linux administration — one HTB box and one CTF at a time.
+2rd-year Cybersecurity student at Dagestan State University, building hands-on skills in network security, web application security, and Linux administration — one HTB box and one CTF at a time.
 
 Currently building **[LiteTrainingGround](https://github.com/Mavrhide/LiteTrainingGround--LTG-)** — a segmented, bank-like cyber range (DMZ / Corporate / Legacy / SOC) designed to practice the full workflow from exploitation to detection, not isolated CTF tasks.
 
