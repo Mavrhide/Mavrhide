@@ -1,52 +1,89 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Networking+%2B+Web+%2B+Linux;IT+Security+%7C+CTF+Player;Building+LiteTrainingGround..." alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:123A5E,100:38BDF8&height=200&section=header&text=Mavrhide&fontColor=E0F2FE&fontSize=54&fontAlignY=38&desc=Network%20%C2%B7%20Web%20%C2%B7%20Linux%20%C2%B7%20Blue%20%26%20Red%20Team&descColor=BAE6FD&descSize=17&descAlignY=60" alt="Mavrhide" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1100&color=7DD3FC&center=true&vCenter=true&width=640&lines=Network+Security+%7C+Web+Security+%7C+Linux;CTF+player+%C2%B7+SOC+%26+detection+learner;Building+NEXUS+%2F%2F+Range+%E2%80%94+KVM+cyber+range+engine" alt="Typing SVG" />
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mavrhide&color=00FF41&style=flat-square&label=PROFILE+VIEWS)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/mavrhide)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://profile.hackthebox.com/profile/019df95b-5a96-71ec-aa89-5a83d3e2b07c)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/mavrhide)
+![Profile Views](https://komarev.com/ghpvc/?username=Mavrhide&color=38BDF8&style=flat-square&label=PROFILE+VIEWS)
+[![Telegram](https://img.shields.io/badge/Telegram-0EA5E9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/mavrhide)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-1E293B?style=flat-square&logo=hackthebox&logoColor=7DD3FC)](https://profile.hackthebox.com/profile/019df95b-5a96-71ec-aa89-5a83d3e2b07c)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-1E293B?style=flat-square&logo=tryhackme&logoColor=7DD3FC)](https://tryhackme.com/p/mavrhide)
+[![CTFtime](https://img.shields.io/badge/CTFtime-1E293B?style=flat-square&logoColor=7DD3FC)](https://ctftime.org/user/240350)
 
 </div>
 
 ---
 
-### 🇷🇺 Обо мне
+## `$ whoami`
 
-Студент 3 курса Дагестанского государственного университета, интересуюсь сетевой и веб-безопасностью, администрированием Linux.
-Прокачиваюсь на HackTheBox и TryHackMe, собираю собственный киберполигон **[LiteTrainingGround](https://github.com/Mavrhide/LiteTrainingGround--LTG-)** — сегментированную сеть банка с DMZ / Corporate / Legacy / SOC для отработки полного цикла атаки и детекта.
+Студент 3 курса Дагестанского государственного университета. Сетевая и веб-безопасность, администрирование Linux, детект и анализ атак (SIEM / NTA). Тренируюсь на HackTheBox и TryHackMe, играю в CTF командой **Cyber Bobrs**.
 
 ```yaml
 role:      "IT Security Enthusiast / Pentest & Blue Team Learner"
-focus:     ["Network Security", "Web Security", "Linux Administration"]
-currently: "building a corporate network cyber range"
+focus:     ["Network Security", "Web Security", "Linux Administration", "Detection Engineering"]
+building:  "NEXUS // Range — KVM-based cyber range orchestration"
+on_hold:   "LiteTrainingGround (LTG)"
 ```
 
 <div align="center">
 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Cisco](https://img.shields.io/badge/-Cisco%20Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
- 
+![Linux](https://img.shields.io/badge/-Linux-0F172A?style=flat-square&logo=linux&logoColor=7DD3FC)
+![Nmap](https://img.shields.io/badge/-Nmap-0F172A?style=flat-square&logo=nmap&logoColor=7DD3FC)
+![Wireshark](https://img.shields.io/badge/-Wireshark-0F172A?style=flat-square&logo=wireshark&logoColor=7DD3FC)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-0F172A?style=flat-square&logo=burpsuite&logoColor=7DD3FC)
+![Metasploit](https://img.shields.io/badge/-Metasploit-0F172A?style=flat-square&logo=metasploit&logoColor=7DD3FC)
+![Python](https://img.shields.io/badge/-Python-0F172A?style=flat-square&logo=python&logoColor=7DD3FC)
+![Bash](https://img.shields.io/badge/-Bash-0F172A?style=flat-square&logo=gnubash&logoColor=7DD3FC)
+![Go](https://img.shields.io/badge/-Go-0F172A?style=flat-square&logo=go&logoColor=7DD3FC)
+![KVM](https://img.shields.io/badge/-KVM%20%2F%20libvirt-0F172A?style=flat-square&logo=qemu&logoColor=7DD3FC)
+![Cisco](https://img.shields.io/badge/-Cisco%20Networking-0F172A?style=flat-square&logo=cisco&logoColor=7DD3FC)
+
 </div>
 
-<br>
+---
+
+## 🧊 Проекты
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [NEXUS // Range](https://github.com/NEXUS-RANGE)
+**Статус:** `ACTIVE`
+
+Платформа оркестрации киберучений на базе KVM/libvirt: изолированные лаборатории через qcow2 Copy-on-Write, отдельная виртуальная сеть под каждый стенд и доступ к консолям через noVNC без открытия портов наружу.
+
+`Go` · `KVM / libvirt` · `Next.js` · `PostgreSQL` · `noVNC`
+
+[🌐 nexussec.ru](https://nexussec.ru) · [✈️ Telegram](https://t.me/nexus_range) · [💻 GitHub](https://github.com/NEXUS-RANGE)
+
+</td>
+<td width="50%" valign="top">
+
+### [LiteTrainingGround (LTG)](https://github.com/Mavrhide/LiteTrainingGround--LTG-)
+**Статус:** `ON HOLD ❄️`
+
+Сегментированная сеть банка (DMZ / Corporate / Legacy / SOC) для отработки полного цикла атаки и детекта. Проект заморожен: пока всё внимание на NEXUS. К LTG вернусь позже. Идеи и наработки остаются в репозитории.
+
+`Network` · `SIEM` · `Pentest` · `Blue Team`
+
+</td>
+</tr>
+</table>
+
+---
 
 <details>
-<summary><b>🎓 Сертификаты</b></summary>
+<summary><b>🎓 Сертификаты и участие</b></summary>
 <br>
 
-| Сертификат | Провайдер | Дата |
+| Документ | Организатор | Дата |
 |---|---|---|
 | [Анализ событий безопасности с помощью SIEM](https://github.com/Mavrhide/Certificates/blob/main/PT-EdTechLab-SIEM.pdf) | PT EdTechLab (Positive Technologies) | 06.2026 |
 | [Анализ сетевых атак с помощью NTA](https://github.com/Mavrhide/Certificates/blob/main/PT-EdTechLab-NTA.pdf) | PT EdTechLab (Positive Technologies) | 05.2026 |
+| [Сертификат участника DAG CTF Open (Online)](https://github.com/Mavrhide/Certificates/blob/main/DagCTF.pdf) · команда Cyber Bobrs | DAG CTF | 2026 |
 
 </details>
 
@@ -60,26 +97,9 @@ currently: "building a corporate network cyber range"
 
 </details>
 
-<br>
-
-**📫 Связь:** [Telegram](https://t.me/mavrhide)
-
 ---
 
-### 🚧 Флагманский проект
-
-<div align="center">
-
-**[🎯 LiteTrainingGround (LTG)](https://github.com/Mavrhide/LiteTrainingGround--LTG-)**
-
-Киберполигон в виде сегментированной инфраструктуры из трёх бизнес-доменов: интернет-магазин, банк, больница — и SOC-контура.
-Полный цикл — от эксплуатации до детекта в SIEM
-
-</div>
-
----
-
-### 📊 GitHub Stats
+## 📊 Stats
 
 <div align="center">
 
@@ -88,60 +108,38 @@ currently: "building a corporate network cyber range"
 
 <br>
 
-<img height="165" src="https://streak-stats.demolab.com?user=Mavrhide&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" alt="GitHub Streak" />
+<img height="165" src="https://streak-stats.demolab.com?user=Mavrhide&theme=github-dark-blue&hide_border=true&background=0B1220&ring=38BDF8&fire=7DD3FC&currStreakLabel=BAE6FD&sideLabels=7DD3FC&currStreakNum=E0F2FE&sideNums=E0F2FE&dates=64748B" alt="GitHub Streak" />
 
-<sub>Карточки Stats и Top Languages генерируются автоматически через GitHub Actions в этом репозитории — не зависят от внешних сервисов.</sub>
+<sub>Stats и Top Languages генерируются через GitHub Actions в этом репозитории и не зависят от внешних сервисов.</sub>
 
 </div>
 
 ---
 
-<div align="center">
-
-### 🇬🇧 About Me
-
-3rd-year Cybersecurity student at Dagestan State University, building hands-on skills in network security, web application security, and Linux administration — one HTB box and one CTF at a time.
-
-Currently building **[LiteTrainingGround](https://github.com/Mavrhide/LiteTrainingGround--LTG-)** — a segmented, bank-like cyber range (DMZ / Corporate / Legacy / SOC) designed to practice the full workflow from exploitation to detection, not isolated CTF tasks.
-
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat-square&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Cisco](https://img.shields.io/badge/-Cisco%20Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-
-</div>
-
-<br>
-
 <details>
-<summary><b>🎓 Certifications</b></summary>
+<summary><b>🇬🇧 About me (English)</b></summary>
 <br>
+
+3rd-year Cybersecurity student at Dagestan State University, focused on network security, web application security and Linux administration, with a growing interest in detection (SIEM / NTA). I train on HackTheBox and TryHackMe and play CTFs with the **Cyber Bobrs** team.
+
+**Now building:** [NEXUS // Range](https://github.com/NEXUS-RANGE) ([nexussec.ru](https://nexussec.ru)), a KVM/libvirt orchestration engine for cyber ranges: isolated labs via qcow2 Copy-on-Write, per-lab virtual networks and noVNC console access with no exposed ports.
+
+**On hold:** [LiteTrainingGround](https://github.com/Mavrhide/LiteTrainingGround--LTG-), a segmented bank-like cyber range (DMZ / Corporate / Legacy / SOC). Frozen for now while NEXUS takes priority; I plan to come back to it.
 
 | Certificate | Provider | Date |
 |---|---|---|
 | [Security Event Analysis with SIEM](https://github.com/Mavrhide/Certificates/blob/main/PT-EdTechLab-SIEM.pdf) | PT EdTechLab (Positive Technologies) | Jun 2026 |
 | [Network Attack Analysis with NTA](https://github.com/Mavrhide/Certificates/blob/main/PT-EdTechLab-NTA.pdf) | PT EdTechLab (Positive Technologies) | May 2026 |
+| [DAG CTF Open (Online): participant certificate](https://github.com/Mavrhide/Certificates/blob/main/DagCTF.pdf), team Cyber Bobrs | DAG CTF | 2026 |
 
 </details>
-
-<details>
-<summary><b>🏆 Where I train</b></summary>
-<br>
-
-- [HackTheBox](https://profile.hackthebox.com/profile/019df95b-5a96-71ec-aa89-5a83d3e2b07c)
-- [TryHackMe](https://tryhackme.com/p/mavrhide)
-- [CTFtime](https://ctftime.org/user/240350)
-
-</details>
-
-<br>
 
 <div align="center">
 
-📫 **Let's connect:** [Telegram](https://t.me/mavrhide)
+<br>
+
+📫 **Связь / Contact:** [Telegram](https://t.me/mavrhide)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:123A5E,100:0B1220&height=110&section=footer" alt="" width="100%" />
 
 </div>
