@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:123A5E,100:38BDF8&height=200&section=header&text=Mavrhide&fontColor=E0F2FE&fontSize=54&fontAlignY=38&desc=Network%20%C2%B7%20Web%20%C2%B7%20Linux%20%C2%B7%20Blue%20%26%20Red%20Team&descColor=BAE6FD&descSize=17&descAlignY=60" alt="Mavrhide" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:123A5E,100:38BDF8&height=200&section=header&text=Mavrhide&fontColor=E0F2FE&fontSize=54&fontAlignY=38&desc=Network%20-%20Web%20-%20Linux%20-%20Security&descColor=BAE6FD&descSize=17&descAlignY=60" alt="Mavrhide" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1100&color=7DD3FC&center=true&vCenter=true&width=640&lines=Network+Security+%7C+Web+Security+%7C+Linux;CTF+player+%C2%B7+SOC+%26+detection+learner;Building+NEXUS+%2F%2F+Range+%E2%80%94+KVM+cyber+range+engine" alt="Typing SVG" />
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mavrhide&color=38BDF8&style=flat-square&label=PROFILE+VIEWS)
+[![Profile Views](https://hits.sh/github.com/Mavrhide.svg?style=flat-square&label=profile%20views&color=0EA5E9&labelColor=1E293B)](https://hits.sh/github.com/Mavrhide/)
 [![Telegram](https://img.shields.io/badge/Telegram-0EA5E9?style=flat-square&logo=telegram&logoColor=white)](https://t.me/mavrhide)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-1E293B?style=flat-square&logo=hackthebox&logoColor=7DD3FC)](https://profile.hackthebox.com/profile/019df95b-5a96-71ec-aa89-5a83d3e2b07c)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-1E293B?style=flat-square&logo=tryhackme&logoColor=7DD3FC)](https://tryhackme.com/p/mavrhide)
