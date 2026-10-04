@@ -83,7 +83,7 @@ on_hold:   "LiteTrainingGround (LTG)"
 |---|---|---|
 | [Анализ событий безопасности с помощью SIEM](https://github.com/Mavrhide/Certificates/blob/main/PT-EdTechLab-SIEM.pdf) | PT EdTechLab (Positive Technologies) | 06.2026 |
 | [Анализ сетевых атак с помощью NTA](https://github.com/Mavrhide/Certificates/blob/main/PT-EdTechLab-NTA.pdf) | PT EdTechLab (Positive Technologies) | 05.2026 |
-| [Сертификат участника DAG CTF Open (Online)](https://github.com/Mavrhide/Certificates/blob/main/DagCTF.pdf) · команда Cyber Bobrs | DAG CTF | 2026 |
+| [Сертификат участника DAG CTF Open (Online)](https://github.com/Mavrhide/Certificates/blob/main/DagCTF.pdf) | DAG CTF | 2026 |
 
 </details>
 
